@@ -1,13 +1,13 @@
-Análise de Deputadas Federais do estado de São Paulo que nunca foram eleitas de 2015 a 2020
+# Análise de Deputadas Federais do estado de São Paulo que nunca foram eleitas de 2015 a 2020
 
-Este repositório concede a análise e visualização de gráficos nos dados públicos de 2014 até 2020 recebidos dos seguintes arquivos: consulta_cand_2014_SP.csv, consulta_cand_2016_SP, consulta_cand_2018_ e consulta_cand_2020_
+*Este repositório concede a análise e visualização de gráficos nos dados públicos de 2014 até 2020 recebidos dos seguintes arquivos: consulta_cand_2014_SP.csv, consulta_cand_2016_SP, consulta_cand_2018_ e consulta_cand_2020_
 
-1º Semestre ADS - FATEC São José Dos Campos
+**1º Semestre ADS - FATEC São José Dos Campos
 
 Aluno: Gustavo Oliveira
 
 Professor: Fernando Masanori
 
-Fontes dos dados: https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2014.html https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2016.html https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2018.html https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2020.html
+_Fontes dos dados: https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2014.html https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2016.html https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2018.html https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2020.html
 
-Inspirado em https://github.com/charles-ramos/participacao-mulheres-eleicoes-brasil
+_Inspirado em https://github.com/charles-ramos/participacao-mulheres-eleicoes-brasil

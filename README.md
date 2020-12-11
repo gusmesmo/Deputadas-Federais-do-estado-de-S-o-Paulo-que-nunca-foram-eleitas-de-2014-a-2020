@@ -2,7 +2,7 @@
 
 *Este repositório concede a análise e visualização de gráficos nos dados públicos de 2014 até 2020 recebidos dos seguintes arquivos: consulta_cand_2014_SP.csv, consulta_cand_2016_SP, consulta_cand_2018_ e consulta_cand_2020_*
 
-1º Semestre ADS - FATEC São José Dos Campos_
+1º Semestre ADS - FATEC São José Dos Campos
 
 Aluno: Gustavo Oliveira
 

@@ -8,7 +8,4 @@ Aluno: Gustavo Oliveira
 
 Professor: Fernando Masanori
 
-Fontes dos dados: https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2014.html 
-https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2016.html 
-https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2018.html 
-https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos_anos/2020.html
+Fontes dos dados: https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos.html
